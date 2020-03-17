@@ -7,12 +7,17 @@
 # # Github : https://github.com/PassDDoS # #
 #[+]====================================[+]#
 
-import os
+import os, sys
 
 try:
     import socks, requests, wget, cfscrape, urllib3
 except:
-    os.system("pip install pysocks requests wget cfscrape urllib3 scapy")
+    if sys.platform.startswith("linux"):
+        os.system("pip3 install pysocks requests wget cfscrape urllib3 scapy")
+    elif sys.platform.startswith("freebsd"):
+        os.system("pip3 install pysocks requests wget cfscrape urllib3 scapy")
+    else:
+        os.system("pip install pysocks requests wget cfscrape urllib3 scapy")
 
 import socket, socks, threading, random, re, os
 import sys, glob, time, requests, ssl, webbrowser
