@@ -1,1 +1,1 @@
-Suport: https://discord.gg/VHuCedZ
+Suport: https://anonboot.pw/discord
