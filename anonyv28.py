@@ -176,7 +176,7 @@ acceptall = ["Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;
 "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Encoding: br;q=1.0, gzip;q=0.8, *;q=0.1\r\n",
 "Accept: text/plain;q=0.8,image/png,*/*;q=0.5\r\nAccept-Charset: iso-8859-1\r\n",]    
 
-black_lists = ["pornhub.com"]
+black_lists = ["pornhub.com", "anonboot.pw"]
 
 def logo():
     if sys.platform.startswith("linux"):
