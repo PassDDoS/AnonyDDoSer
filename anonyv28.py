@@ -2,7 +2,7 @@
 #[+]==============[ Contact ]===========[+]#
 # # Discord: PassDDoS#6595               # #
 # # ICQ    : @passddos                   # #
-# # Tele   : 945052809                   # #
+# # Tele   : https://t.me/PassDDoS       # #
 # # Email  : passddos@gmail.com          # #
 # # Github : https://github.com/PassDDoS # #
 #[+]====================================[+]#
