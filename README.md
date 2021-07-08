@@ -1,1 +1,1 @@
-Suport: https://anonboot.pw/discord
+Suport: https://t.me/PassDDoS
