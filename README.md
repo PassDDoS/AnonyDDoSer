@@ -1,1 +1,1 @@
-Suport: https://t.me/PassDDoS
+Stopped updating
